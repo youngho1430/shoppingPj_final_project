@@ -1,11 +1,14 @@
 # shoppingPj_final_project 
 스프링/ 디지털기기쇼핑몰 / spirng legacy, mysql, mybatis 를 이용 /국비 최종 프로젝트 
 
+## 이벤트게시판, 리뷰
+https://github.com/youngho1430/shoppingPj_final_project/blob/master/boardreview.pdf
+
 ## 최종 시연 영상
 [![Video Label](http://img.youtube.com/vi/jlEddtRgM8g/0.jpg)](https://youtu.be/jlEddtRgM8g)
 
 ## 최종 ppt
-https://github.com/Jiyul1026/shoppingPj_final_project/blob/master/SMARTDC.pdf
+https://github.com/youngho1430/shoppingPj_final_project/blob/master/SMARTDC.pdf
 
 
 ## information
